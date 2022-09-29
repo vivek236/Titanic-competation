@@ -9,3 +9,12 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+
+
+About The Files:
+
+Test and Train data has been provided in csv format.
+
+Code is in the .ipynb format with all the dricption.
+
+Cleaned Test abd train dataset is also provided from my side which can also be used for directly building the model.
